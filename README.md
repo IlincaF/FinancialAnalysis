@@ -14,7 +14,7 @@ The analysis consists of 12 sheets:
   <li>The eighth sheet presents the Bankruptcy Risk of the companies using 4 Models: Taffler, Altman, Conan-Holder and Anghel;</li>
   <li>The nineth sheet contains the Financial Rating of the companies according to the S&P Rating and the Batrancea Rating;</li>
   <li>The tenth sheet contains the Conclusions of the analysis for each company;</li>
-  <li>The final 2 sheets consist of the pivot charts used to generate the charts and the Raw Data of the companies that were taken from Macrotrends and Stock Analysis.</li>
+  <li>The final 2 sheets consist of the pivot tables used to generate the charts and the Raw Data of the companies that were taken from Macrotrends and Stock Analysis.</li>
 </ol>
 Some of the charts are accompanied by Interpretations of the data and also offer potential justifications for some of the spikes and crashes of the companies throughout the years. 
 
